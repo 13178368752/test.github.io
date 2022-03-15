@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.887d9bfeb319c7264f11183de0d722fc.js"
+  "precache-manifest.42c7edefb5adefdfa8e1d531d0c88b9b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tyloo-chat-client"});
